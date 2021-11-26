@@ -21,6 +21,6 @@ We are thankful to all those who have helped us directly or indirectly with this
 fill in the blanks 
 ## Table of Content
 
-| :---        |    :----:   |         
-| Abstract           | page no      | 
+| :--------          |    :--------  |         
+| Abstract           | page no       | 
 | Acknowledgement    | page no       | 
