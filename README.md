@@ -21,13 +21,87 @@ We are thankful to all those who have helped us directly or indirectly with this
 fill in the blanks 
 ## Table of Content
 
-| Topic                   | Page No | 
-| :---:                   | :-:     | 
-| Abstract                |         |
-| Acknowledgement         |         |
-| Introduction            |         |
-| Objective and scope     |         |
-| Add more...             |         |
+| Topic                         | Page No | 
+| :---:                         | :-:     | 
+| Introduction                  |         |
+| Literature Review             |         |
+| Objective and Scopes          |         |
+| System Design                 |         |
+| Methodology                   |         |
+| Evaluation                    |         |
+| Conclusion                    |         |
 
+## Table of Figures and Graphs
+
+1. First Figure
+2. Second Figure
+3. Third Figure
+4. Fourth Figure
+
+## Introduction 
+
+fill in the blanks 
+
+## Literature review 
+
+## Review of social distance detection 
+fill in the blanks 
+
+### Popular Algorithms 
+
+1. First algorithm
+2. Second algorithm
+3. Third algorithm
+4. Fourth algorithm
+
+### some additional topic to add inside the Literature review 
+
+
+## Objective and Scopes 
+
+fill in the blanks 
+
+### Objective 
+fill in the blanks 
+
+### scopes 
+
+fill in the blanks 
+
+## System Design 
+
+### Proposed Algorithm 
+fill in the blanks 
+
+### Flowchart 
+fill in the blanks 
+
+## Methodology 
+
+fill in the blanks
+
+### Knowledge based approach and feature based approach 
+
+fill in the blanks
+
+### Python 
+
+fill in the blanks
+
+## Evaluation 
+
+fill in the blanks
+
+### Grantt's Table
+
+fill in the blanks
+
+### Cost Evaluation 
+
+fill in the blanks
+
+## Conclusion
+
+fill in the blanks
 
 
