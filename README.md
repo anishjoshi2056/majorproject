@@ -1,2 +1,15 @@
-# majorproject
-hello my name is anish joshi
+# TRIBHUWAN UNIVERSITY
+# PURWANCHAL CAMPUS
+# TINKUNE, DHARAN
+# A
+# PROJECT PROPOSAL
+# ON
+# SOCIAL DISTANCE DETECTION
+# SUBMITTED TO
+# DEPARTMENT OF ELECTRONICS AND COMPUTER ENGINEERING
+# SUBMITTED BY:
+# ANISH JOSHI (anishjoshi1999@gmail.com)
+# SUJAN KARKI (sujankarki269@gmail.com)
+# NIRUTA DIMAL (nirutadhimal7@gmail.com)
+# PRADIP SAPKOTA (mr.prasag@gmail.com)
+# DEC 1, 2021
